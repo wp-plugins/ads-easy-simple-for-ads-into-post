@@ -2,7 +2,7 @@
 /*
 Plugin Name: Ads
 Plugin URI: http://appstore.probashitimes.com/
-Description: A Simple Plugin That Let You Add Adsense Ads Within Post Content. Add ads anywhere you need just you need to add short code.
+Description: A Simple Plugin That Let You Add Adsense Ads Within Post Content. Add ads anywhere you need just you need to add shortcode.
 Version: 1.0.1
 Author: A S M Sayem
 Author URI: http://en.gravatar.com/hasmsayemkhan

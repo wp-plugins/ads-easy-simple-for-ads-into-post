@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: A S M Sayem
-Donate link: http://appstore.probashitimes.com/
+Donate link: http://appstore.probashitimes.com/support-us/
 Tags: ad, ads, adsense, google adsense, advert, adverts, advertisements, advertisement, advertising, banner ads, banner ad, banners, random ads, rotating ads, display, monetization
 Requires at least: 3.0
 Tested up to: 4.1

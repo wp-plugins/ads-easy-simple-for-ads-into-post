@@ -161,8 +161,8 @@ echo '</a></h5>
 /*Display Custom information About this Plugin Developer and more*/
 	echo '</tr><tr><td></td><td style="vertical-align: text-top"><div class="postbox"><h3 class="hndle" align="center">Ads Plugin Information</h3><div class="inside"><ul>';
 	echo '<li>Plugin Developed by: <strong><a href="http://en.gravatar.com/hasmsayemkhan">A S M Sayem</a></strong></li>';
-	echo '<li>Customer Support: <strong><a href="http://appstore.probashitimes.com">Meta App</a></strong></li>';
-	echo '<li>Distributed by: <strong>Envato Market</strong> (<a href="http://codecanyon.net/">CodeCanyon</a>)';
+	echo '<li>Customer Support: <strong><a href="http://appstore.probashitimes.com/contact-us">Meta App Support</a></strong></li>';
+	echo '<li>Distributed by: <strong>Meta App</strong> (<a href="http://appstore.probashitimes.com/download/">App Store</a>)';
 	echo '<li>Got a problem? <a target="_blank" href="http://appstore.probashitimes.com/">Download Plugin Documentation</a></li>';
 	echo '</ul></div></div></div></td></tr></table>';
 }
