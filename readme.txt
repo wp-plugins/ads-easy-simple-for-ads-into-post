@@ -2,8 +2,8 @@
 Contributors: asmsayem
 Donate link: http://appstore.probashitimes.com/support-us/
 Tags: ad, ads, adsense, google adsense, advert, adverts, advertisements, advertisement, advertising, banner ads, banner ad, banners, random ads, rotating ads, display, monetization
-Requires at least: 3.0
-Tested up to: 4.1
+Requires at least: 3.6
+Tested up to: 4.2
 Stable tag: 2.1
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
