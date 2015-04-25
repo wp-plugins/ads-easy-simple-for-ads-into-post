@@ -5,7 +5,7 @@ Plugin URI: http://appstore.probashitimes.com/
 Description: A Simple Plugin That Let You Add Adsense Ads Within Post Content. Add ads anywhere you need just you need to add shortcode.
 Version: 1.0.1
 Author: A S M Sayem
-Author URI: http://en.gravatar.com/hasmsayemkhan
+Author URI: https://profiles.wordpress.org/asmsayem
 License: GPLv2
 License URL: https://www.gnu.org/licenses/gpl-2.0.html
 */
