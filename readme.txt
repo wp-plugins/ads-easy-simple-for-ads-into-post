@@ -80,7 +80,8 @@ See <a href="http://appstore.probashitimes.com/" target="_blank">Documentation</
 
 == Changelog ==
 
-= 1.0.1 =
+= 1.0.0 =
 (April 2015) First release of Ads.
 
-== Upgrade Notice ==
+= 1.0.1 =
+(25 April 2015) Updated for WordPress 4.2
